@@ -1,30 +1,37 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function GamesProvider() {
-  return (
-    <section
-      id="game-provider"
-      className="bg-[url(/img/provider/PROVIDER_BG.webp)] bg-cover bg-center py-12 lg:py-20"
-    >
-      <div className="max-w-[1200px] mx-auto flex flex-wrap justify-center gap-4">
-        {[
-          { href: "#jili-games", src: "JILI" },
-          { href: "#pg-games", src: "PG" },
-          { href: "#pp-games", src: "PP" },
-          { href: "#fc-games", src: "FC" },
-          { href: "#jdb-games", src: "JDB" },
-        ].map(({ href, src }) => (
-          <Link
-            key={href}
-            href={href}
-            className={`w-[45%] sm:w-[30%] md:w-[18%] aspect-[2/3] bg-center bg-no-repeat bg-cover transition-all duration-300 
-              bg-[url(/img/provider/${src}.webp)] 
-              lg:bg-[url(/img/provider/v2/${src}.webp)]`}
-          />
-        ))}
-      </div>
-    </section>
-  );
+	return (
+		<section
+			id="game-provider"
+			className="bg-[url(/img/provider/PBC_PROVIDER_BG.png)] bg-cover bg-center py-12 lg:py-20"
+		>
+			<div className="max-w-[1200px] mx-auto flex flex-wrap justify-center gap-4">
+				{[
+					{ href: "#jili-games", src: "PBC_JILI_V1" },
+					{ href: "#pg-games", src: "PBC_PG_V1" },
+					{ href: "#pp-games", src: "PBC_PP_V1" },
+					{ href: "#fc-games", src: "PBC_FC_V1" },
+					{ href: "#jdb-games", src: "PBC_JDB_V1" },
+				].map(({ href, src }) => (
+					<Link
+						key={href}
+						href={href}
+						className={`w-[45%] sm:w-[30%] md:w-[18%] aspect-[2/3] bg-center bg-no-repeat bg-cover transition-all duration-300 
+             `}
+					>
+						<Image
+							src={`/img/provider/${src}.png`}
+							alt={src}
+							width={200}
+							height={475}
+						/>
+					</Link>
+				))}
+			</div>
+		</section>
+	);
 }
 
 // import Link from "next/link";
