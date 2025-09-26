@@ -15,9 +15,11 @@ export default function RankingTable() {
 				<thead>
 					<tr className="text-yellow-400 text-center text-sm sm:text-base md:text-[24px] lg:text-[26px] lg:font-[900]">
 						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">RANKING</th>
-						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">DAILY</th>
-						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">WEEKLY</th>
-						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">MONTHLY</th>
+						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">GAME</th>
+						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">NO. PLAYER</th>
+						<th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">
+							HIGHEST WINNING
+						</th>
 					</tr>
 				</thead>
 				<tbody className="text-sm sm:text-base font-[500] lg:text-[24px]">
