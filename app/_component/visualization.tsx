@@ -1,7 +1,7 @@
 // import Image from "next/image";
 import RankingTable from "./ranking-table";
-import VisualizeChart from "./visualize-chart";
-import Conquer from "./conquer";
+// import VisualizeChart from "./visualize-chart";
+// import Conquer from "./conquer";
 
 export default function Visualization() {
 	return (
@@ -12,7 +12,7 @@ export default function Visualization() {
 					<RankingTable />
 				</div>
 			</section>
-			<section className="pb-12 lg:pb-20">
+			{/* <section className="pb-12 lg:pb-20">
 				<div className="bg-[url(/img/PBC_CHART_TITLE.png)] mx-auto bg-center bg-no-repeat bg-contain  w-[322px] h-[61px] lg:w-full lg:h-[200px]"></div>
 				<div className="p-4">
 					<div
@@ -24,8 +24,8 @@ export default function Visualization() {
 						<VisualizeChart />
 					</div>
 				</div>
-			</section>
-			<section className="pb-12 lg:pb-20">
+			</section> */}
+			{/* <section className="pb-12 lg:pb-20">
 				<div className="p-4">
 					<div className="max-w-[1200px] mx-auto bg-[#12390D] rounded-[23px] border-2 border-[#27DD12] px-2 py-8 lg:py-15">
 						<h3 className="text-[#FFE207] text-center font-bold mb-2 lg:text-[30px]/9 text-balance lg:w-[80%] lg:mx-auto lg:mb-8">
@@ -46,7 +46,7 @@ export default function Visualization() {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 		</div>
 	);
 }
