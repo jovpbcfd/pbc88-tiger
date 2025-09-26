@@ -1,4 +1,4 @@
-// import Image from "next/image";
+import Image from "next/image";
 import RankingTable from "./ranking-table";
 // import VisualizeChart from "./visualize-chart";
 // import Conquer from "./conquer";
@@ -8,13 +8,13 @@ export default function Visualization() {
 		<div className="bg-[url(/img/PBC_BG-2.png)] bg-no-repeat bg-cover w-full">
 			<section className="pb-12 pt-16 lg:pb-20 lg:pt-42">
 				<div className="max-w-[1200px] mx-auto relative p-1">
-					<div className="bg-[url(/img/PBC_TITLE.png)] bg-center bg-no-repeat bg-contain left-0 right-0 mx-auto w-[322px] h-[61px] absolute -top-10 lg:-top-30 lg:w-full lg:h-[200px]"></div>
+					<div className="bg-[url(/img/TITLE_v2.webp)] bg-center bg-no-repeat bg-contain left-0 right-0 mx-auto w-[322px] h-[61px] absolute -top-10 lg:-top-30 lg:w-full lg:h-[200px]"></div>
 					<RankingTable />
 				</div>
 			</section>
-			<section className="max-w-[1200px] mx-auto">
-				<div>
-					<p className="text-center lg:text-left lg:text-[18px]/7 font-bold pb-2 lg:pb-15">
+			<section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:flex-row md:justify-center md:items-center pb-2 md:pb-15">
+				<div className="w-full md:w-[50%]">
+					<p className="text-center lg:text-left lg:text-[18px]/7 font-bold ">
 						PBC88 Highest Winning Slot Game Ranking brings you an up-to-date
 						list of the top-performing slot games on the PBC88 platform, ranked
 						by payout rates, jackpot frequency, and player winnings. Whether
@@ -26,6 +26,211 @@ export default function Visualization() {
 						trends and player experiences, this guide is your go-to resource for
 						maximizing your chances at big wins on PBC88!
 					</p>
+				</div>
+				<div className="w-full md:w-[50%]">
+					<Image
+						src="/img/image-plachoder.webp"
+						width="500"
+						height="200"
+						alt="Placeholder"
+						className="rounded-md"
+					/>
+				</div>
+			</section>
+			<section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:mt-10 md:flex-row md:items-center md:pb-15">
+				<div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div>
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div className="mt-2">
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div className="mt-2">
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div className="mt-2">
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div className="mt-2">
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+						<div className="p-2">
+							<Image
+								src="/img/image-plachoder.webp"
+								width="500"
+								height="200"
+								alt="Placeholder"
+								className="rounded-md"
+							/>
+							<div className="mt-2">
+								<h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
+									possimus nostrum explicabo nulla fugiat ratione?
+								</h3>
+								<p className="text-sm text-white line-clamp-3">
+									Lorem ipsum dolor sit amet consectetur adipisicing elit.
+									Natus, incidunt iste sapiente voluptas expedita quo laboriosam
+									quidem repellat fugit exercitationem maiores. Hic ex cumque
+									cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
+									quibusdam illum doloremque quos eaque qui, aperiam cupiditate
+									mollitia aliquam non, quia aliquid! Sed omnis labore corporis
+									dolorum eaque repudiandae officia ea voluptatibus quaerat
+									dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
+									minima ad a doloremque sit dolorem vel voluptatibus vero,
+									dolores sequi deserunt iure quasi. Eum non dignissimos
+									reiciendis nihil quos totam dolore nemo impedit laboriosam,
+									aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
+									voluptates corporis.
+								</p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</section>
 			{/* <section className="pb-12 lg:pb-20">
