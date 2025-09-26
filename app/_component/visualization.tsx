@@ -12,6 +12,22 @@ export default function Visualization() {
 					<RankingTable />
 				</div>
 			</section>
+			<section className="max-w-[1200px] mx-auto">
+				<div>
+					<p className="text-center lg:text-left lg:text-[18px]/7 font-bold pb-2 lg:pb-15">
+						PBC88 Highest Winning Slot Game Ranking brings you an up-to-date
+						list of the top-performing slot games on the PBC88 platform, ranked
+						by payout rates, jackpot frequency, and player winnings. Whether
+						you&apos;re a seasoned player or new to online slots, this ranking
+						helps you identify the most profitable games with the best
+						return-to-player (RTP) percentages. Discover which titles are
+						dominating the charts, featuring exciting gameplay, high volatility,
+						and massive win potential. Updated regularly to reflect the latest
+						trends and player experiences, this guide is your go-to resource for
+						maximizing your chances at big wins on PBC88!
+					</p>
+				</div>
+			</section>
 			{/* <section className="pb-12 lg:pb-20">
 				<div className="bg-[url(/img/PBC_CHART_TITLE.png)] mx-auto bg-center bg-no-repeat bg-contain  w-[322px] h-[61px] lg:w-full lg:h-[200px]"></div>
 				<div className="p-4">
