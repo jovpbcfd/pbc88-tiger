@@ -49,7 +49,7 @@ export default function Hero() {
 					</div>
 					<div className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] lg:w-[450px] lg:h-[450px] border-dashed border-gray-500 rounded-md flex items-center justify-center">
 						<Image
-							src="/img/PBC_MILESTONE_CHALLENGE.png"
+							src="/img/PBC_Image.webp"
 							width={450}
 							height={450}
 							alt="Hero"
