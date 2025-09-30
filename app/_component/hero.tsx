@@ -5,10 +5,10 @@ export default function Hero() {
 		<>
 			<section className="bg-black">
 				<div
-					className="relative  max-w-[1200px] mx-auto bg-[url(/img/jackpot-background_upper2.webp)] bg-center bg-no-repeat bg-contain w-full h-[100px] mb-[-50px] 
+					className="relative  max-w-[1200px] mx-auto bg-[url(/img/jackpot-background_upper2.webp)] bg-center bg-no-repeat bg-contain w-full h-[100px] mb-[-53px] 
 			md:mb-[-90px] md:h-[168px]"
 				></div>
-				<div className="bg-[url(/img/PBC_Banner3.webp)] bg-center bg-contain bg-no-repeat w-full h-[100px] md:h-[435px]"></div>
+				<div className="bg-[url(/img/PBC_Banner3.webp)] bg-center bg-cover md:bg-contain bg-no-repeat w-full h-[200px] md:h-[435px]"></div>
 				<div className="max-w-[1200px] mx-auto bg-[url(/img/jackpot-background_bottom.webp)] bg-center bg-contain bg-no-repeat w-full h-[20px] mt-[-20px] md:mt-[-50px] md:h-[60px]"></div>
 			</section>
 			{/* bg-[url(/img/PBC_SECTION_BG.png)] bg-cover */}
