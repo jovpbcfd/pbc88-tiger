@@ -1,38 +1,42 @@
- export const data = [
-    {
-      rank: "1ST PLACE",
-      icon: "/img/ranking/icon-one.webp",
-      daily: "₱1,500",
-      weekly: "₱4,000",
-      monthly: "₱7,000",
-    },
-    {
-      rank: "2ND PLACE",
-      icon: "/img/ranking/icon-two.webp",
-      daily: "₱1,000",
-      weekly: "₱2,500",
-      monthly: "₱5,000",
-    },
-    {
-      rank: "3RD PLACE",
-      icon: "/img/ranking/icon-three.webp",
-      daily: "₱800",
-      weekly: "₱1,500",
-      monthly: "₱3,000",
-    },
-    {
-      rank: "4TH PLACE",
-      icon: "/img/ranking/icon-four.webp",
-      daily: "₱600",
-      weekly: "₱1,000",
-      monthly: "₱2,000",
-    },
-    {
-      rank: "5TH PLACE",
-      icon: "/img/ranking/icon-five.webp",
-      daily: "₱400",
-      weekly: "₱800",
-      monthly: "₱1,000",
-    },
-
-]
+export const data = [
+  {
+    rank: "1ST PLACE",
+    icon: "/img/ranking/icon-one.webp",
+    date: "11/06/2025",
+    daily: "Lucky Jaguar",
+    weekly: "2034",
+    monthly: "4499",
+  },
+  {
+    rank: "2ND PLACE",
+    icon: "/img/ranking/icon-two.webp",
+    date: "11/06/2025",
+    daily: "Pirate Legends",
+    weekly: "1875",
+    monthly: "885.2",
+  },
+  {
+    rank: "3RD PLACE",
+    icon: "/img/ranking/icon-three.webp",
+    date: "11/06/2025",
+    daily: "Fortune Hook Boom",
+    weekly: "1342",
+    monthly: "763.23",
+  },
+  {
+    rank: "4TH PLACE",
+    icon: "/img/ranking/icon-four.webp",
+    date: "11/06/2025",
+    daily: "Magic Ace WILD LOCK",
+    weekly: "967",
+    monthly: "658.7",
+  },
+  {
+    rank: "5TH PLACE",
+    icon: "/img/ranking/icon-five.webp",
+    date: "11/06/2025",
+    daily: "Lucky Dragon",
+    weekly: "923",
+    monthly: "631.8333333",
+  },
+];
