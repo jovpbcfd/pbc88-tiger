@@ -3,6 +3,7 @@ import { data } from "@/data/ranking";
 
 export default function RankingTable() {
   return (
+    // Table Container
     <div
       className="overflow-x-auto p-1 rounded-lg lg:p-3 lg:pb-10
       [background-image:linear-gradient(to_right,#D8A42E_0%,#9A490E_50%,#F7D341_75%,#FFF4C8_88%,#FFCE4B_94%,#F9B34F_97%,#D58C22_100%)]
