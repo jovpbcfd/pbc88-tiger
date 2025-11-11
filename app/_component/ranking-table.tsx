@@ -40,13 +40,13 @@ export default function RankingTable() {
                 <span>{item.rank}</span>
               </td>
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
-                {item.daily}
+                {item.name}
               </td>
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
-                {item.weekly}
+                {item.number}
               </td>
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
-                {item.monthly}
+                {item.winning}
               </td>
             </tr>
           ))}
