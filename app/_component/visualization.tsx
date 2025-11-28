@@ -29,7 +29,7 @@ export default function Visualization() {
         </div>
         <div className="w-full md:w-[50%]">
           <Image
-            src="/img/image-plachoder.webp"
+            src="/img/pbc-88-slot.jpg"
             width="500"
             height="200"
             alt="Placeholder"
