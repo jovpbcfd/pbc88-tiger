@@ -14,7 +14,7 @@ export default function Visualization() {
       </section>
       <section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:flex-row md:justify-center md:items-center pb-2 md:pb-15">
         <div className="w-full md:w-[50%]">
-          <p className="text-center lg:text-left lg:text-[18px]/7 font-bold ">
+          <p className="text-center text-white lg:text-left lg:text-[18px]/7 font-bold ">
             PBC88 Highest Winning Slot Game Ranking brings you an up-to-date
             list of the top-performing slot games on the PBC88 platform, ranked
             by payout rates, jackpot frequency, and player winnings. Whether
