@@ -1,5 +1,6 @@
 import Image from "next/image";
 import RankingTable from "./ranking-table";
+import Link from "next/link";
 // import VisualizeChart from "./visualize-chart";
 // import Conquer from "./conquer";
 
@@ -39,8 +40,13 @@ export default function Visualization() {
       </section>
       <section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:mt-10 md:flex-row md:items-center md:pb-15">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-          <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
-            <div className="p-2">
+          <Link
+            href="/blogs/money-pot-join-the-thrill-and-win-up-to-2999-on-pbc88-bangladesh"
+            className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          "
+          >
+            <div className="p-2 cursor-pointer">
               <Image
                 src="/img/slot-machines_resized.webp"
                 width="500"
@@ -49,30 +55,26 @@ export default function Visualization() {
                 className="rounded-md"
               />
               <div>
-                <h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
-                  possimus nostrum explicabo nulla fugiat ratione?
+                <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                  Money Pot: Join the Thrill and Win Up to ৳2999 on PBC88
+                  Bangladesh!
                 </h3>
                 <p className="text-sm text-white line-clamp-3">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Natus, incidunt iste sapiente voluptas expedita quo laboriosam
-                  quidem repellat fugit exercitationem maiores. Hic ex cumque
-                  cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
-                  quibusdam illum doloremque quos eaque qui, aperiam cupiditate
-                  mollitia aliquam non, quia aliquid! Sed omnis labore corporis
-                  dolorum eaque repudiandae officia ea voluptatibus quaerat
-                  dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
-                  minima ad a doloremque sit dolorem vel voluptatibus vero,
-                  dolores sequi deserunt iure quasi. Eum non dignissimos
-                  reiciendis nihil quos totam dolore nemo impedit laboriosam,
-                  aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
-                  voluptates corporis.
+                  Discover the PBC88 Bangladesh Money Pot promotion and win up
+                  to ৳2999. Join over 1,400 players enjoying this exciting
+                  chance to test their luck and earn real cash rewards. Perfect
+                  for both new and seasoned gamers in Bangladesh.
                 </p>
               </div>
             </div>
-          </div>
-          <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
-            <div className="p-2">
+          </Link>
+          <Link
+            href="/blogs/crazy777-win-up-to-1665.666667-with-pbc88-bangladesh-promotions"
+            className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          "
+          >
+            <div className="p-2 cursor-pointer">
               <Image
                 src="/img/slot-machines_resized.webp"
                 width="500"
@@ -80,31 +82,28 @@ export default function Visualization() {
                 alt="Placeholder"
                 className="rounded-md"
               />
-              <div className="mt-2">
-                <h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
-                  possimus nostrum explicabo nulla fugiat ratione?
+              <div>
+                <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                  Crazy777: Win Up to 1665.666667 with PBC88 Bangladesh
+                  Promotions!
                 </h3>
                 <p className="text-sm text-white line-clamp-3">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Natus, incidunt iste sapiente voluptas expedita quo laboriosam
-                  quidem repellat fugit exercitationem maiores. Hic ex cumque
-                  cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
-                  quibusdam illum doloremque quos eaque qui, aperiam cupiditate
-                  mollitia aliquam non, quia aliquid! Sed omnis labore corporis
-                  dolorum eaque repudiandae officia ea voluptatibus quaerat
-                  dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
-                  minima ad a doloremque sit dolorem vel voluptatibus vero,
-                  dolores sequi deserunt iure quasi. Eum non dignissimos
-                  reiciendis nihil quos totam dolore nemo impedit laboriosam,
-                  aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
-                  voluptates corporis.
+                  Experience the excitement of Crazy777 at PBC88 Bangladesh,
+                  where over 1,300 players compete for big rewards and prizes
+                  reaching up to 1665.66. Join the thrill, explore PBC88
+                  promotions, and discover why Crazy777 is one of Bangladesh’s
+                  most popular online gaming attractions.
                 </p>
               </div>
             </div>
-          </div>
-          <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
-            <div className="p-2">
+          </Link>
+          <Link
+            href="/blogs/fortunePig-pbc88-bangladesh-biggest-promotion-ever"
+            className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          "
+          >
+            <div className="p-2 cursor-pointer">
               <Image
                 src="/img/slot-machines_resized.webp"
                 width="500"
@@ -112,31 +111,26 @@ export default function Visualization() {
                 alt="Placeholder"
                 className="rounded-md"
               />
-              <div className="mt-2">
-                <h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
-                  possimus nostrum explicabo nulla fugiat ratione?
+              <div>
+                <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                  FortunePig – PBC88 Bangladesh Biggest Promotion Ever
                 </h3>
                 <p className="text-sm text-white line-clamp-3">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Natus, incidunt iste sapiente voluptas expedita quo laboriosam
-                  quidem repellat fugit exercitationem maiores. Hic ex cumque
-                  cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
-                  quibusdam illum doloremque quos eaque qui, aperiam cupiditate
-                  mollitia aliquam non, quia aliquid! Sed omnis labore corporis
-                  dolorum eaque repudiandae officia ea voluptatibus quaerat
-                  dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
-                  minima ad a doloremque sit dolorem vel voluptatibus vero,
-                  dolores sequi deserunt iure quasi. Eum non dignissimos
-                  reiciendis nihil quos totam dolore nemo impedit laboriosam,
-                  aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
-                  voluptates corporis.
+                  Join the FortunePig promotion at PBC88 Bangladesh and win up
+                  to ৳1147.32 per spin. Over 1,295 players are already enjoying
+                  this exciting gaming festival—spin, break the piggy bank, and
+                  win real cash rewards today!
                 </p>
               </div>
             </div>
-          </div>
-          <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
-            <div className="p-2">
+          </Link>
+          <Link
+            href="/blogs/crazy777-pbc88-bangladesh-biggest-promotion-ever"
+            className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          "
+          >
+            <div className="p-2 cursor-pointer">
               <Image
                 src="/img/slot-machines_resized.webp"
                 width="500"
@@ -144,29 +138,20 @@ export default function Visualization() {
                 alt="Placeholder"
                 className="rounded-md"
               />
-              <div className="mt-2">
-                <h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut,
-                  possimus nostrum explicabo nulla fugiat ratione?
+              <div>
+                <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                  Crazy777 – PBC88 Bangladesh Biggest Promotion Ever!
                 </h3>
                 <p className="text-sm text-white line-clamp-3">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Natus, incidunt iste sapiente voluptas expedita quo laboriosam
-                  quidem repellat fugit exercitationem maiores. Hic ex cumque
-                  cupiditate, iusto incidunt error nemo explicabo saepe? Maiores
-                  quibusdam illum doloremque quos eaque qui, aperiam cupiditate
-                  mollitia aliquam non, quia aliquid! Sed omnis labore corporis
-                  dolorum eaque repudiandae officia ea voluptatibus quaerat
-                  dolorem. Sed, suscipit nesciunt reprehenderit, at minus et
-                  minima ad a doloremque sit dolorem vel voluptatibus vero,
-                  dolores sequi deserunt iure quasi. Eum non dignissimos
-                  reiciendis nihil quos totam dolore nemo impedit laboriosam,
-                  aut laborum, eligendi mollitia. Obcaecati, odio. Alias sint in
-                  voluptates corporis.
+                  Discover Crazy777, the hottest promotion on PBC88 Bangladesh,
+                  offering winning prizes up to ৳1,665.66. Join over 1,342
+                  players from Dhaka, Chittagong, Sylhet, Khulna, Rajshahi,
+                  Barisal, and across Bangladesh in this exciting 2025 slot
+                  gaming event.
                 </p>
               </div>
             </div>
-          </div>
+          </Link>
           <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
             <div className="p-2">
               <Image
