@@ -48,7 +48,7 @@ export default function Visualization() {
           >
             <div className="p-2 cursor-pointer">
               <Image
-                src="/img/slot-machines_resized.webp"
+                src="/img/blog/Money_Pot_Join_the_Thrill_and_Win_Up_to_2999_on_PBC88_Bangladesh.webp"
                 width="500"
                 height="200"
                 alt="Placeholder"
@@ -76,7 +76,7 @@ export default function Visualization() {
           >
             <div className="p-2 cursor-pointer">
               <Image
-                src="/img/slot-machines_resized.webp"
+                src="/img/blog/Crazy777_Win_Up_to_1665.666667_with_PBC88_Bangladesh_Promotions!.webp"
                 width="500"
                 height="200"
                 alt="Placeholder"
@@ -105,7 +105,7 @@ export default function Visualization() {
           >
             <div className="p-2 cursor-pointer">
               <Image
-                src="/img/slot-machines_resized.webp"
+                src="/img/blog/FortunePig_PBC88_Bangladesh_Biggest_Promotion_Ever.webp"
                 width="500"
                 height="200"
                 alt="Placeholder"
@@ -132,7 +132,7 @@ export default function Visualization() {
           >
             <div className="p-2 cursor-pointer">
               <Image
-                src="/img/slot-machines_resized.webp"
+                src="/img/blog/Crazy777_PBC88_Bangladesh_Biggest_Promotion_Ever.webp"
                 width="500"
                 height="200"
                 alt="Placeholder"
