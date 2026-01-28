@@ -1,6 +1,7 @@
 import Image from "next/image";
 import RankingTable from "./ranking-table";
-import Link from "next/link";
+import BlogGrid from "./blog-grid";
+// import Link from "next/link";
 // import VisualizeChart from "./visualize-chart";
 // import Conquer from "./conquer";
 
@@ -37,8 +38,9 @@ export default function Visualization() {
             className="rounded-md"
           />
         </div>
-      </section>
-      <section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:mt-10 md:flex-row md:items-center md:pb-15">
+      </section>{" "}
+      <BlogGrid />
+      {/* <section className="max-w-[1200px] mx-auto flex gap-5 items-center flex-col-reverse md:mt-10 md:flex-row md:items-center md:pb-15">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <Link
             href="/blogs/money-pot-join-the-thrill-and-win-up-to-2999-on-pbc88-bangladesh"
@@ -256,7 +258,7 @@ export default function Visualization() {
               </div>
             </div>
           </Link>
-          {/* <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
+          <div className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition">
             <div className="p-2">
               <Image
                 src="/img/slot-machines_resized.webp"
@@ -287,9 +289,9 @@ export default function Visualization() {
                 </p>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
-      </section>
+      </section> */}
       {/* <section className="pb-12 lg:pb-20">
 				<div className="bg-[url(/img/PBC_CHART_TITLE.png)] mx-auto bg-center bg-no-repeat bg-contain  w-[322px] h-[61px] lg:w-full lg:h-[200px]"></div>
 				<div className="p-4">

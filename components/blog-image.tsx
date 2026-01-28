@@ -1,7 +1,9 @@
+import Image from "next/image";
+
 export default function BlogImageMainBanner({ link }: { link: string }) {
   return (
     <div className="w-full max-w-[827px] md:w-[827px] rounded-md mb-5">
-      <img
+      <Image
         src={link}
         width={827}
         height={435}
