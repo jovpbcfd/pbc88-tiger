@@ -515,70 +515,88 @@ export default function BlogGrid() {
             </div>
           </div>
         </Link>
+        <Link
+          href="/blogs/super-ace-the-exciting-casino-game-thats-huge-in-bangladesh"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/super-ace-the-exciting-casino-game-thats-huge-in-bangladesh.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Super Ace: The Exciting Casino Game That&apos;s Huge in
+                Bangladesh
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;m gonna break down why Super Ace is killing
+                it on PBC88. We&apos;ll look at how it&apos;s been crushing
+                tournaments lately, share some real win stories that have
+                everyone chatting, and throw in tips to help you get going.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/exploring-the-thrill-of-boxing-king-on-pbc88-a-real-game-changer-in-online-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/exploring-the-thrill-of-boxing-king-on-pbc88-a-real-game-changer-in-online-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Exploring the Thrill of Boxing King on PBC88: A Real
+                Game-Changer in Online Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;m gonna break down why this game is so fun
+                and addictive, share some real win stories from players, and
+                drop tips to help you get started. No matter if you&apos;re just
+                trying it out or you&apos;ve been playing forever chasing that
+                huge payout, stick around—this is your front-row view. Come on,
+                let&apos;s jump in!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/aztec-gold-treasure-unlocking-ancient-riches-in-online-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/aztec-gold-treasure-unlocking-ancient-riches-in-online-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Aztec Gold Treasure: Unlocking Ancient Riches in Online Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                No matter if you&apos;ve been playing for years or you&apos;re
+                just starting out in casinos, this post will help you get Aztec
+                Gold Treasure and why so many in Bangladesh are loving it.
+              </p>
+            </div>
+          </div>
+        </Link>
         {/*  */}
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
         <Link
           href="/blogs/mock"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
