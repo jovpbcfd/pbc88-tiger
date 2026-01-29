@@ -596,154 +596,199 @@ export default function BlogGrid() {
             </div>
           </div>
         </Link>
+        <Link
+          href="/blogs/fortune-gems-3-the-slot-game-thats-got-everyone-in-bangladesh-talking"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-gems-3-the-slot-game-thats-got-everyone-in-bangladesh-talking.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Gems 3: The Slot Game That&apos;s Got Everyone in
+                Bangladesh Talking
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post I&apos;m going to tell you everything important
+                about Fortune Gems 3 in a simple way – how it plays, why
+                Bangladeshi players love it so much, some useful tips, and real
+                stories that show why this game feels special.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/epic-win-money-coming-takes-2nd-place-in-11-player-rush-and-grabs-49900"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/epic-win-money-coming-takes-2nd-place-in-11-player-rush-and-grabs-৳49,900.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Epic Win: Money Coming Takes 2nd Place in 11-Player Rush & Grabs
+                ৳49,900!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post we&apos;ll talk about what happened, why it&apos;s
+                such a big deal for Bangladeshi players, and how you can also
+                try your luck. New player or experienced one — keep reading for
+                some real tips and motivation.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/pirate-legends-a-real-thrilling-ride-in-online-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/pirate-legends-a-real-thrilling-ride-in-online-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Pirate Legends: A Real Thrilling Ride in Online Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                This post is all about this pirate-themed game – the cool theme,
+                real player stories, simple gameplay tips, and why so many
+                people here love it. Whether you&apos;re new to slots or have
+                played for years, I&apos;ll keep it easy and straight.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/welcome-to-the-pbc88-blog-unlock-the-sparkle-of-fortune-gems-500"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/welcome-to-the-pbc88-blog-unlock-the-sparkle-of-fortune-gems-500.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Welcome to the PBC88 Blog: Unlock the Sparkle of Fortune Gems
+                500!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                We&apos;ll cover what the game is actually like, share some real
+                wins our players have hit lately, and give you simple steps to
+                jump in. Grab your tea, get comfy, and let&apos;s see why so
+                many people in Bangladesh are loving Fortune Gems 500 these
+                days.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fortune-gems-500-unleashing-epic-wins-and-thrilling-adventures-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-gems-500-unleashing-epic-wins-and-thrilling-adventures-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Gems 500: Unleashing Epic Wins and Thrilling Adventures
+                on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Hey there, welcome to the wild ride of online gaming where one
+                spin can flip your luck upside down! If you&apos;re in
+                Bangladesh and get a kick out of casino stuff, betting on
+                sports, or just testing your fortune, PBC88 is the spot for you.
+                Today, we&apos;re digging into one of our hottest features:
+                Fortune Gems 500.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/pirate-legends-sailing-into-epic-wins-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/pirate-legends-sailing-into-epic-wins-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Pirate Legends: Sailing into Epic Wins on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, we&apos;ll cover everything about Pirate Legends –
+                the cool pirate theme, how the game works, ways to win more, and
+                some stories from our recent events. We&apos;ll especially look
+                at the 4th Treasure Hunt where 20 players went after a huge
+                ৳49,400 top prize.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/discover-the-thrill-of-jungle-king-on-pbc88-a-bangladeshi-gamers-paradise"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/discover-the-thrill-of-jungle-king-on-pbc88-a-bangladeshi-gamers-paradise.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Discover the Thrill of Jungle King on PBC88: A Bangladeshi
+                Gamer&apos;s Paradise
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post I&apos;m going to tell you all about it – the crazy
+                jungle adventure, the huge wins that are making Bangladeshi
+                players go wild right now. We&apos;ll cover what makes the game
+                special, some simple ways to play better, and I&apos;ll share
+                that recent massive win everyone&apos;s talking about.
+              </p>
+            </div>
+          </div>
+        </Link>
         {/*  */}
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
         <Link
           href="/blogs/mock"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
