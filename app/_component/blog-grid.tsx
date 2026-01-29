@@ -788,196 +788,248 @@ export default function BlogGrid() {
             </div>
           </div>
         </Link>
+        <Link
+          href="/blogs/pirate-queen-2-sailing-to-massive-wins-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/pirate-queen-2-sailing-to-massive-wins-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Pirate Queen 2: Sailing to Massive Wins on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Welcome to the fun world of online gaming at PBC88! Whether
+                you&apos;re new to slots or you&apos;ve played for years, this
+                guide is for you. Let&apos;s jump in!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fruity-bonanza-the-sweet-slot-thats-crazy-popular-in-bangladesh"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fruity-bonanza-the-sweet-slot-thats-crazy-popular-in-bangladesh.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fruity Bonanza: The Sweet Slot That&apos;s Crazy Popular in
+                Bangladesh
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Hey everyone! If you &apos;re in Bangladesh and enjoy a bit of
+                online gaming, you &apos;ve probably heard people talking about
+                Fruity Bonanza on PBC88. Whether you &apos;re just starting out
+                or you &apos;ve been playing for years, this game has something
+                for you. Let &apos;s talk about why so many people here love it.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/wild-bounty-showdown-big-wins-and-crazy-fun-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/wild-bounty-showdown-big-wins-and-crazy-fun-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Wild Bounty Showdown: Big Wins and Crazy Fun on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Hey guys from Bangladesh! If you love online casino games full
+                of adventure, huge wins and pure excitement, then Wild Bounty
+                Showdown is definitely something you should check out. Come
+                along, I&apos;ll tell you everything about the game, share some
+                real tips, and explain why so many people here are loving it on
+                PBC88.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fortune-crown-gold-gift-thrills-and-big-wins-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-crown-gold-gift-thrills-and-big-wins-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Crown Gold Gift: Thrills and Big Wins on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post we&apos;ll look at what makes this game special,
+                tell you about the recent crazy 5th Crown Jackpot win of 30,030
+                ৳ with 92 players involved, and share some simple tips that can
+                help you play better.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/pirate-queen-sailing-to-victory-in-online-casino-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/pirate-queen-sailing-to-victory-in-online-casino-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Pirate Queen: Sailing to Victory in Online Casino Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Whether you&apos;re someone who plays slots all the time or
+                you&apos;re just starting, this post will tell you everything
+                important about Pirate Queen — the main features, details about
+                that famous 750 win, some useful tips, and why so many people in
+                Bangladesh are loving it.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/dive-into-the-thrilling-world-of-pirate-queen-2-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/dive-into-the-thrilling-world-of-pirate-queen-2-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Dive into the Thrilling World of Pirate Queen 2 on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post I&apos;m going to tell you everything important
+                about the sequel – the story, the features and especially the
+                new events where you can actually grab some nice cash prizes. So
+                come on, grab your pirate hat (even if it&apos;s imaginary) and
+                let&apos;s jump in!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/wild-bounty-showdown-thrilling-adventures-in-online-casino-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/wild-bounty-showdown-thrilling-adventures-in-online-casino-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Wild Bounty Showdown: Thrilling Adventures in Online Casino
+                Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                New to this or already playing a lot? Stick around—I&apos;ve got
+                over 1500 words packed with real talk to get you excited to jump
+                in and spin. Let&apos;s get going!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fortune-crown-gold-gift-the-4th-crown-shine-gave-one-lucky-player-500-taka-76-people-joined-in"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-crown-gold-gift-the-4th-crown-shine-gave-one-lucky-player-500-taka-76-people-joined-in.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Crown Gold Gift: The 4th Crown Shine Gave One Lucky
+                Player 500 Taka – 76 People Joined In!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Whether you play on PBC88 all the time or you&apos;re just
+                thinking about giving it a try, hang around – I&apos;ll explain
+                what went down, why so many people loved it, and how you can get
+                ready for the next round.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fruity-bonanza-the-juicy-slot-thats-winning-hearts-at-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fruity-bonanza-the-juicy-slot-thats-winning-hearts-at-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fruity Bonanza: The Juicy Slot That&apos;s Winning Hearts at
+                PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll go over all the important bits – how the
+                game works, some handy tips, the special features, and why
+                it&apos;s such a great pick for folks here in Bangladesh who
+                want real fun and actual rewards.
+              </p>
+            </div>
+          </div>
+        </Link>
         {/*  */}
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
         <Link
           href="/blogs/mock"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
