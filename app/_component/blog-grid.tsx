@@ -1456,6 +1456,277 @@ export default function BlogGrid() {
             </div>
           </div>
         </Link>
+        <Link
+          href="/blogs/fortune-rabbit-a-thrilling-ride-in-online-slots-that-captivates-bangladeshi-players"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-rabbit-a-thrilling-ride-in-online-slots-that-captivates-bangladeshi-players.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Rabbit: A Thrilling Ride in Online Slots That Captivates
+                Bangladeshi Players
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post I want to talk about what makes Fortune Rabbit
+                special, why so many Bangladeshi players like it, how that big
+                tournament went, some practical tips, real stories from other
+                players, and what might come next. Let&apos;s jump in.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/discover-the-thrills-of-fortune-rabbit-on-pbc88-your-ultimate-guide-to-winning-big"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/discover-the-thrills-of-fortune-rabbit-on-pbc88-your-ultimate-guide-to-winning-big.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Discover the Thrills of Fortune Rabbit on PBC88: Your Ultimate
+                Guide to Winning Big
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through what makes the game
+                special, how it works, some handy tips, real stories from other
+                players, and how to jump in on PBC88 using Bangladeshi Taka (৳).
+                By the end, you might just feel ready to spin and see what
+                happens!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mahjong-ways-the-thrilling-online-slot-game-taking-bangladesh-by-storm"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mahjong-ways-the-thrilling-online-slot-game-taking-bangladesh-by-storm.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Mahjong Ways: The Thrilling Online Slot Game Taking Bangladesh
+                by Storm
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                This post covers all the basics—how to play, some handy tips,
+                and even true stories from players. Let&apos;s get into why this
+                game feels so special and how you can try it right away.
+              </p>
+            </div>
+          </div>
+        </Link>
+        {/*  */}
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link>
         {/*  */}
         <Link
           href="/blogs/mock"
