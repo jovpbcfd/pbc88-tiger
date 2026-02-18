@@ -34,7 +34,7 @@ export const data = [
   {
     rank: "5TH PLACE",
     icon: "/img/ranking/icon-five.webp",
-    date: "2026-02-13",
+    date: "2026-02-18",
     name: "Boxing King",
     number: "42",
     winning: "53020",
