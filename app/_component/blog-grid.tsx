@@ -1783,6 +1783,284 @@ export default function BlogGrid() {
         </Link>
         {/*  */}
         <Link
+          href="/blogs/museum-wonders-grabs-4th-spot-with-55-players-and-25800-in-wins-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/museum-wonders-grabs-4th-spot-with-55-players-and-25800-in-wins-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Museum Wonders Grabs 4th Spot with 55 Players and 25,800৳ in
+                Wins on PBC88!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this write-up, I&apos;ll walk you through why Museum Wonders
+                is worth your time, explain its main features in simple words,
+                tell you why it shot up the ranks so quickly, and share some
+                practical tips to help you win more. Everything in Taka, just
+                right for BD players. Let&apos;s check out the treasures!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/doge-lifes-thrilling-37564-win-a-tale-of-luck-strategy-and-big-rewards-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/doge-lifes-thrilling-37564-win-a-tale-of-luck-strategy-and-big-rewards-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Doge Life&apos;s Thrilling ৳37,564 Win: A Tale of Luck,
+                Strategy, and Big Rewards on PBC88!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                I&apos;ll walk you through what happened, why the game is so
+                loved, some handy tips, and how you can jump in yourself. Who
+                knows — maybe you&apos;ll be the next one sharing your win
+                story!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/three-little-pigs-at-pbc88-38000-thrill-with-20-players"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/three-little-pigs-at-pbc88-38000-thrill-with-20-players.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Three Little Pigs at PBC88: ৳38,000 Thrill with 20 Players!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Hey folks, welcome to the PBC88 blog – your spot for all the fun
+                online gaming action in Bangladesh. Today, we&apos;re talking
+                about Three Little Pigs, a super cute slot game that&apos;s got
+                everyone hooked. This game&apos;s got laughs, smarts, and huge
+                win chances. Let&apos;s break it down.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/super-elements-thrilling-wins-and-strategies-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/super-elements-thrilling-wins-and-strategies-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Super Elements: Thrilling Wins and Strategies on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll explain why Super Elements is so
+                special, share a couple of recent true win stories, give some
+                straightforward tips for players here in Bangladesh, and tell
+                you why PBC88 feels like the best spot to play safely and have
+                fun. New or experienced, you&apos;ll pick up something useful
+                and maybe get motivated by what others have achieved. Let&apos;s
+                jump in and see how you can make your next play session count!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/mahjong-win-2-a-thrilling-ride-in-the-world-of-online-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mahjong-win-2-a-thrilling-ride-in-the-world-of-online-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Mahjong Win 2: A Thrilling Ride in the World of Online Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Here at PBC88 – your favorite spot for casino games, online fun,
+                gambling, and sports betting – we love sharing the best stuff
+                with you. Whether you&apos;ve been playing for years or
+                you&apos;re just starting out, this post will tell you
+                everything about Mahjong Win 2 in a simple way. Let&apos;s jump
+                right in!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/super-elements-the-ultimate-thrill-in-online-casino-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/super-elements-the-ultimate-thrill-in-online-casino-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Super Elements: The Ultimate Thrill in Online Casino Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Hey guys, if you&apos;re from Bangladesh and love online
+                casinos, gambling, or sports betting, you&apos;ve probably
+                caught wind of Super Elements. At PBC88, it&apos;s becoming a
+                favorite in tournaments. Let&apos;s jump right in and see what
+                the fuss is about.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/epic-victory-sugar-bang-bang-plus-claims-45772-in-a-90-player-showdown-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/epic-victory-sugar-bang-bang-plus-claims-45772-in-a-90-player-showdown-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Epic Victory: Sugar Bang Bang Plus Claims ₹45,772 in a 90-Player
+                Showdown on PBC88!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll talk about this big win, what makes
+                these tournaments exciting, some tips to help you do well, and
+                why PBC88 is the best spot for casino fans, bettors, and sports
+                lovers here. Let&apos;s get into it and maybe get you fired up
+                to play!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/exploring-crystal-777-the-thrilling-slot-game-taking-bangladesh-by-storm"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/exploring-crystal-777-the-thrilling-slot-game-taking-bangladesh-by-storm.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Exploring Crystal 777: The Thrilling Slot Game Taking Bangladesh
+                by Storm
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Let me walk you through what makes it so popular, in plain
+                words, no fancy talk. (Around 600 words total, promise!)
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/crystal-777-deluxe-the-ultimate-slot-thrill-thats-taking-bangladesh-by-storm"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/crystal-777-deluxe-the-ultimate-slot-thrill-thats-taking-bangladesh-by-storm.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Crystal 777 Deluxe: The Ultimate Slot Thrill That&apos;s Taking
+                Bangladesh by Storm
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post I want to explain what makes Crystal 777 Deluxe so
+                good, how it actually plays, some real stories from players like
+                us, a few simple tips to help you do better, and exactly why
+                PBC88 feels like the right place to try it if you&apos;re in
+                Bangladesh. Whether you already play slots a lot or you&apos;re
+                just thinking about starting, I&apos;ll keep everything easy to
+                follow and straight to the point. Grab a cup of tea, get
+                comfortable, and let&apos;s check out why so many people here
+                are hooked on this game.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/golden-empire-on-pbc88-massive-18080-jackpot-hit-with-67-players-secured-5th-position"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/golden-empire-on-pbc88-massive-18080-jackpot-hit-with-67-players-secured-5th-position.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Golden Empire on PBC88: Massive ৳18,080 Jackpot Hit with 67
+                Players – Secured 5th Position!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Let me walk you through what went down, why this jackpot feels
+                so important, and what you can do to put yourself in line for
+                the next one.
+              </p>
+            </div>
+          </div>
+        </Link>
+        {/*  */}
+        <Link
           href="/blogs/mock"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
