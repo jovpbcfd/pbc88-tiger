@@ -2060,13 +2060,13 @@ export default function BlogGrid() {
         </Link>
         {/*  */}
         <Link
-          href="/blogs/mock"
+          href="/blogs/thrilling-triumph-in-20-stars-ablaze-second-place-bags-69800-in-an-18-player-showdown"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/thrilling-triumph-in-20-stars-ablaze-second-place-bags-69800-in-an-18-player-showdown.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2074,20 +2074,26 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Thrilling Triumph in 20 Stars Ablaze: Second Place Bags ৳69,800
+                in an 18-Player Showdown!
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                Whether you&apos;re someone who&apos;s played for years or
+                you&apos;re just starting out, this story shows why so many of
+                us here in Bangladesh are hooked on this game. Let&apos;s break
+                it down nice and simple.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/lucky-ace-celebrating-epic-wins-and-thrilling-moments-in-online-gaming"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/lucky-ace-celebrating-epic-wins-and-thrilling-moments-in-online-gaming.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2095,20 +2101,27 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Lucky Ace: Celebrating Epic Wins and Thrilling Moments in Online
+                Gaming
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, we&apos;ll look closely at Lucky Ace&apos;s recent
+                successes, talk about the games involved, give some practical
+                tips for players in Bangladesh, and explain why PBC88 feels like
+                the right place for all this fun. Let&apos;s keep it simple and
+                real – grab a cup of tea and read on!
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/anubis-wrath-the-thrilling-slot-game-taking-bangladesh-by-storm"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/anubis-wrath-the-thrilling-slot-game-taking-bangladesh-by-storm.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2116,20 +2129,24 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Anubis Wrath: The Thrilling Slot Game Taking Bangladesh by Storm
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                Whether you&apos;ve played slots before or this is your first
+                try, stick around—I&apos;ll walk you through what makes this
+                game so special and how to jump in.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/piggy-bank-your-gateway-to-thrilling-wins-in-online-casino-gaming"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/piggy-bank-your-gateway-to-thrilling-wins-in-online-casino-gaming.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2137,20 +2154,28 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Piggy Bank: Your Gateway to Thrilling Wins in Online Casino
+                Gaming
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through everything about Piggy
+                Bank in simple words. We&apos;ll cover what makes it special,
+                how to play it step by step, some smart ways to improve your
+                chances, and why so many Bangladeshi players are hooked. Whether
+                you&apos;ve played slots before or you&apos;re just starting
+                out, you&apos;ll find useful tips here for enjoying it on PBC88.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/magical-alchemist-a-thrilling-journey-to-a-49030-win-in-online-gaming"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/magical-alchemist-a-thrilling-journey-to-a-49030-win-in-online-gaming.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2158,20 +2183,29 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Magical Alchemist: A Thrilling Journey to a ৳49,030 Win in
+                Online Gaming
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                Whether you&apos;ve been playing for years or you&apos;re just
+                starting out with slots, poker, or betting on sports, this tale
+                explains why PBC88 feels different. It handles everything in
+                Bangladeshi Taka, keeps things simple to use, and has tons of
+                games made for local players. Let&apos;s look at how Magical
+                Alchemist pulled this off, what the tournament was like, and how
+                you might jump in for your own chance at a win.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/sugar-bang-bang-2-the-sweet-slot-that-just-paid-out-61k-big"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/sugar-bang-bang-2-the-sweet-slot-that-just-paid-out-61k-big.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2179,20 +2213,25 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Sugar Bang Bang 2: The Sweet Slot That Just Paid Out ৳61K Big!
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this write-up I&apos;m going to talk about why Sugar Bang
+                Bang 2 is so popular, explain that huge ৳61K win, give some
+                useful tips, and show you how to start playing right away. Ready
+                to add some sweetness to your wallet? Let&apos;s get into it.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/bubble-beauty-dive-into-the-thrilling-world-of-online-slots-and-big-wins-on-pbc88"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/bubble-beauty-dive-into-the-thrilling-world-of-online-slots-and-big-wins-on-pbc88.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2200,20 +2239,25 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Bubble Beauty: Dive into the Thrilling World of Online Slots and
+                Big Wins on PBC88
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll tell you why it&apos;s so much fun, how
+                to start playing, and a few tricks to enjoy it more—whether
+                you&apos;re brand new or already love slots.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/sugar-bang-bang-2-the-sweet-slot-thats-turning-heads-in-bangladesh"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/sugar-bang-bang-2-the-sweet-slot-thats-turning-heads-in-bangladesh.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2221,20 +2265,27 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Sugar Bang Bang 2: The Sweet Slot That&apos;s Turning Heads in
+                Bangladesh
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through why it&apos;s so good,
+                share some true stories from players, and give simple tips to
+                help you play better. Whether you&apos;re just starting out or
+                you&apos;ve been spinning for years, this is for you. Let&apos;s
+                jump in!
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/egypt-bonanza-unleashing-ancient-treasures-and-big-wins-at-pbc88"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/egypt-bonanza-unleashing-ancient-treasures-and-big-wins-at-pbc88.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2242,20 +2293,28 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Egypt Bonanza: Unleashing Ancient Treasures and Big Wins at
+                PBC88
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through everything about the
+                game in plain words – how to play, how to start on PBC88, the
+                fun parts, some true win stories, tips made for us Bangladeshis,
+                and why PBC88 is worth your time. New to slots or already a
+                regular? Doesn&apos;t matter. Let&apos;s get into this virtual
+                trip down the Nile.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/anubis-rising-the-epic-39925-jackpot-that-had-71-bangladeshi-players-on-the-edge-of-their-seats"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/anubis-rising-the-epic-39925-jackpot-that-had-71-bangladeshi-players-on-the-edge-of-their-seats.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2263,20 +2322,26 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Anubis Rising: The Epic ৳39,925 Jackpot That Had 71 Bangladeshi
+                Players on the Edge of Their Seats!
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                If you&apos;re new to PBC88 or someone who plays slots
+                regularly, this story will get you excited. Let me tell you what
+                happened, what the game is, and how you can try for your own big
+                win.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/charge-buffalo-ascents-40450-thrill-how-a-bangladeshi-player-scored-big-on-pbc88"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/charge-buffalo-ascents-40450-thrill-how-a-bangladeshi-player-scored-big-on-pbc88.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2284,20 +2349,26 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Charge Buffalo Ascent&apos;s ৳40,450 Thrill: How a Bangladeshi
+                Player Scored Big on PBC88!
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                Today I want to share something really cool about Charge Buffalo
+                Ascent on PBC88. This isn&apos;t some boring review — it&apos;s
+                about a real player from our country who turned a normal evening
+                spin into a huge ৳40,450 win.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/3-coin-treasures-the-slot-game-thats-captivating-bangladeshi-players"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/3-coin-treasures-the-slot-game-thats-captivating-bangladeshi-players.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2305,20 +2376,26 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                3 Coin Treasures: The Slot Game That&apos;s Captivating
+                Bangladeshi Players
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                We&apos;ll talk about what makes it special, how to play, tips
+                to try, the story of that massive win, and why PBC88 is the best
+                place to jump in. By the time you finish reading, you&apos;ll
+                probably want to fire up those reels yourself!
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/bakery-bonanza-sweet-wins-and-thrilling-spins-on-pbc88"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/bakery-bonanza-sweet-wins-and-thrilling-spins-on-pbc88.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2326,20 +2403,26 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Bakery Bonanza: Sweet Wins and Thrilling Spins on PBC88
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll talk about what makes Bakery Bonanza
+                stand out, share some tips, and tell you about a recent
+                tournament where someone grabbed ৳85,001 for 4th place out of 48
+                players. New to this or already playing a lot? Stick around –
+                you&apos;ll see why everyone&apos;s talking about it.
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/ultimate-striker-the-thrilling-casino-game-taking-bangladesh-by-storm"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/ultimate-striker-the-thrilling-casino-game-taking-bangladesh-by-storm.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2347,20 +2430,27 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Ultimate Striker: The Thrilling Casino Game Taking Bangladesh by
+                Storm
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through what the game is all
+                about, share some crazy win stories from real players, and throw
+                in a few simple tips to help you get going. Stick around, and I
+                bet you&apos;ll want to jump in and give it a go yourself.
+                Let&apos;s get started!
+              </p>
             </div>
           </div>
         </Link>
         <Link
-          href="/blogs/mock"
+          href="/blogs/discovering-the-excitement-of-bone-fortune-on-pbc88"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
           transition-transform transform hover:scale-110 duration-300
           ">
           <div className="p-2 cursor-pointer">
             <Image
-              src="/img/blog/mock.webp"
+              src="/img/blog/discovering-the-excitement-of-bone-fortune-on-pbc88.webp"
               width="500"
               height="200"
               alt="Placeholder"
@@ -2368,34 +2458,40 @@ export default function BlogGrid() {
             />
             <div>
               <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
+                Discovering the Excitement of Bone Fortune on PBC88
               </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
-            </div>
-          </div>
-        </Link>
-        <Link
-          href="/blogs/mock"
-          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
-          transition-transform transform hover:scale-110 duration-300
-          ">
-          <div className="p-2 cursor-pointer">
-            <Image
-              src="/img/blog/mock.webp"
-              width="500"
-              height="200"
-              alt="Placeholder"
-              className="rounded-md"
-            />
-            <div>
-              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
-                mock
-              </h3>
-              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+              <p className="text-sm text-white line-clamp-3">
+                In this write-up, I&apos;ll walk you through what makes Bone
+                Fortune special, share a real exciting win story, and explain
+                why so many players are loving it. Whether you&apos;re new to
+                this or you&apos;ve been playing for years, let&apos;s take a
+                closer look together.
+              </p>
             </div>
           </div>
         </Link>
         {/*  */}
+        {/* <Link
+          href="/blogs/mock"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/mock.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                mock
+              </h3>
+              <p className="text-sm text-white line-clamp-3">&apos;mock</p>
+            </div>
+          </div>
+        </Link> */}
       </div>
     </section>
   );
