@@ -2058,7 +2058,6 @@ export default function BlogGrid() {
             </div>
           </div>
         </Link>
-        {/*  */}
         <Link
           href="/blogs/thrilling-triumph-in-20-stars-ablaze-second-place-bags-69800-in-an-18-player-showdown"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
@@ -2471,6 +2470,252 @@ export default function BlogGrid() {
           </div>
         </Link>
         {/*  */}
+        <Link
+          href="/blogs/jungle-king-roaring-wins-and-thrilling-adventures-in-online-gaming"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/jungle-king-roaring-wins-and-thrilling-adventures-in-online-gaming.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Jungle King: Roaring Wins and Thrilling Adventures in Online
+                Gaming
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;m going to walk you through why Jungle King
+                stands out on PBC88. We&apos;ll look at how the game works, its
+                cool features, and why so many local players are hooked.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/big-bass-floats-my-boat-a-thrilling-slot-adventure-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/big-bass-floats-my-boat-a-thrilling-slot-adventure-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Big Bass Floats My Boat: A Thrilling Slot Adventure on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                Today I&apos;m talking about one of the most popular games right
+                now on PBC88 – Big Bass Floats My Boat. It&apos;s not your
+                average slot. This one&apos;s all about fishing, full of fun
+                stuff, cool features, and real chances to win huge amounts.
+                Let&apos;s get into it!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/fortune-gems-2-35000-win-in-a-massive-199-player-field"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/fortune-gems-2-35000-win-in-a-massive-199-player-field.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Fortune Gems 2&apos;s ৳35,000 Win in a Massive 199-Player Field!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I want to talk about why Fortune Gems 2 is so much
+                fun, explain what happened in that tournament, show you exactly
+                how to start playing it yourself, and tell you why PBC88 stands
+                out for slots, live casino games, and even cricket betting. New
+                to this or already playing a lot? Stick around – I&apos;ve got
+                simple tips for everyone. Let&apos;s jump in and see what this
+                game is all about!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/explore-magic-of-lucky-clover-riches-on-pbc88-a-thrilling-ride-for-bangladeshi-gamers"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/explore-magic-of-lucky-clover-riches-on-pbc88-a-thrilling-ride-for-bangladeshi-gamers.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Explore Magic of Lucky Clover Riches on PBC88: A Thrilling Ride
+                for Bangladeshi Gamers
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through what makes this game so
+                special, how to play it, some handy tips, and why it feels just
+                right for us here in Bangladesh. Whether you&apos;re new to
+                slots or you&apos;ve been spinning for years, stick around –
+                this Irish-themed adventure is worth checking out.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/anubis-wrath-unleashing-epic-wins-in-the-world-of-online-slots"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/anubis-wrath-unleashing-epic-wins-in-the-world-of-online-slots.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Anubis Wrath: Unleashing Epic Wins in the World of Online Slots
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll walk you through what makes Anubis Wrath
+                special, how to play it, that big 71-player event, some handy
+                tips, and why PBC88 feels like home for gamers here. Let&apos;s
+                get into it!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/poker-win-at-pbc88-the-414404-massive-payout-that-has-bangladesh-buzzing"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/poker-win-at-pbc88-the-414404-massive-payout-that-has-bangladesh-buzzing.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Poker Win at PBC88: The ৳4,14,404 Massive Payout That Has
+                Bangladesh Buzzing!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                The recent event drew 118 players, ranked second in popularity,
+                and handed out prizes up to ৳41,404 levels. Clearly, serious
+                wins are coming to Bangladeshi players right now. Let&apos;s
+                break down how it works and how you can jump in.
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/3-gods-unleashed-hits-3rd-with-2-players-40k-win-on-pbc88"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/3-gods-unleashed-hits-3rd-with-2-players-40k-win-on-pbc88.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                3 Gods Unleashed Hits 3rd With 2 Players, 40K Win on PBC88
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this post, I&apos;ll break it all down nice and simple: what
+                the game is, how that cool Hold & Win part works, why it pays so
+                well, and how easy it is to get started on PBC88 and try your
+                luck. Let&apos;s get into it!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/coin-infinity-at-pbc88-massive-2nd-place-finish-delivers-50850-win-in-just-21-players"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/coin-infinity-at-pbc88-massive-2nd-place-finish-delivers-50850-win-in-just-21-players.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Coin Infinity at PBC88: Massive 2nd Place Finish Delivers
+                ₹50,850 Win in Just 21 Players!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this guide, I&apos;ll explain what Coin Infinity is all
+                about, how that big win went down, how you can jump in today,
+                some real tips to play better, and why so many people from
+                Dhaka, Chittagong, Sylhet, and everywhere else keep coming back.
+                Let&apos;s get into it!
+              </p>
+            </div>
+          </div>
+        </Link>
+        <Link
+          href="/blogs/unveiling-the-mysteries-of-aztecs-treasure-epic-wins-gameplay-and-why-players-are-hooked"
+          className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
+          transition-transform transform hover:scale-110 duration-300
+          ">
+          <div className="p-2 cursor-pointer">
+            <Image
+              src="/img/blog/unveiling-the-mysteries-of-aztecs-treasure-epic-wins-gameplay-and-why-players-are-hooked.webp"
+              width="500"
+              height="200"
+              alt="Placeholder"
+              className="rounded-md"
+            />
+            <div>
+              <h3 className="text-lg font-semibold text-white mt-2 mb-2 line-clamp-2">
+                Unveiling the Mysteries of Aztec&apos;s Treasure: Epic Wins,
+                Gameplay, and Why Players Are Hooked!
+              </h3>
+              <p className="text-sm text-white line-clamp-3">
+                In this guide, we&apos;ll break down all things Aztec&apos;s
+                Treasure. We&apos;ll cover how it plays, its cool extras, fresh
+                wins, handy tips, and why PBC88 rocks for Bangladeshi gamers.
+                Newbie or pro, you&apos;ll wrap this up pumped to give it a go.
+                Let&apos;s see why it&apos;s the hot topic in Bangladesh&apos;s
+                online casino crowd!
+              </p>
+            </div>
+          </div>
+        </Link>
         {/* <Link
           href="/blogs/mock"
           className="overflow-hidden rounded-lg shadow-md bg-[#166534] hover:shadow-xl transition
