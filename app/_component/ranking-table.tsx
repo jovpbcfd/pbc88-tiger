@@ -16,10 +16,10 @@ export default function RankingTable() {
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">DATE</th>
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">RANKING</th>
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">GAME NAME</th>
-            <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">NO. PLAYER</th>
+            {/* <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">NO. PLAYER</th>
             <th className="px-1 py-2 md:px-2 md:pt-5 lg:pt-14">
               HIGHEST WINNING
-            </th>
+            </th> */}
           </tr>
         </thead>
         <tbody className="text-sm sm:text-base font-[500] lg:text-[24px]">
@@ -43,12 +43,12 @@ export default function RankingTable() {
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
                 {item.name}
               </td>
-              <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
+              {/* <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
                 {item.number}
               </td>
               <td className="px-1 py-2 text-center md:px-2 md:text-center lg:py-0">
                 {item.winning}
-              </td>
+              </td> */}
             </tr>
           ))}
         </tbody>
