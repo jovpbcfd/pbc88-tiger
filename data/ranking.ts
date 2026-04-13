@@ -37,7 +37,7 @@ export const data = [
     date: "04/12/2026",
     name: "Super Ace Deluxe",
     number: "17",
-    winning: "35460",
+    winning: "35460.0",
   },
 ];
 // export const data = [
