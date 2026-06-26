@@ -35,7 +35,7 @@ export const data = [
     rank: "5TH PLACE",
     icon: "/img/ranking/icon-five.webp",
     date: "6/26/2026",
-    name: "Super Ace",
+    name: "Thunder of Zeus",
     number: "15",
     winning: "45600",
   },
